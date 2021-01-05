@@ -1,1 +1,1 @@
-# AnalysingCovidData
+# AnalyzingCovidData
